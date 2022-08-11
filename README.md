@@ -1,4 +1,5 @@
 #Exploratory-Data-Analysis
+
 Performing Exploratory Data analysis on given Set 'SampleSuperstore.csv'.
 Finding out weak areas in which businesses can be further improved or discarded.
 
